@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "provider-template-backend": {
-      "main": "src/provider-template-backend/main.mo",
+    "providerTemplate": {
+      "main": "src/provider-template/main.mo",
       "type": "motoko"
     }
   },
